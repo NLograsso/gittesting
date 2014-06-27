@@ -1,1 +1,1 @@
-Hey Nicholas how is it going
+print 'I love Mac'
